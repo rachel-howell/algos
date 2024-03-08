@@ -19,8 +19,7 @@ var reverseWords = function(s) {
 
   let temp = "";
 
-  // we will make a while 
-  // console.log(s[0])
+  for
 
 };
 
